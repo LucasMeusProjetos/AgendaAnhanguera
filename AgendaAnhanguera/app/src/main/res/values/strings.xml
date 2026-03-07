@@ -1,0 +1,12 @@
+<resources>
+    <string name="titulo">Agenda Anhanguera</string>
+    <string name="codigo">Código</string>
+    <string name="nome">Nome</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="Assunto">Assunto</string>
+    <string name="botao">Agendar Agora</string>
+
+
+
+</resources>
