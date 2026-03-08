@@ -2,9 +2,9 @@
 <resources>
     <color name="preto">#FF000000</color>
     <color name="branco">#FFFFFFFF</color>
-    <color name="Azul">#4FCAF7</color>
-    <color name="AzulEscuro">#1A33FA</color>
-    <color name="Laranja">#F94D12</color>
+    <color name="azul">#4FCAF7</color>
+    <color name="azulescuro">#1A33FA</color>
+    <color name="laranja">#F94D12</color>
 
 
 </resources>
